@@ -34,7 +34,6 @@ dist/
 
 # Other files and directories
 *.log
-*.txt
 *.swp
 *.bak
 *.tmp
